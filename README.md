@@ -37,7 +37,7 @@ F9 split-screen captures show the HQ rendering on the left and the original low-
 | ![Gameplay comparison frame 1](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_01.jpg) | ![Gameplay comparison frame 2](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_02.jpg) |
 | ![Gameplay comparison frame 3](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_03.jpg) | ![Gameplay comparison frame 4](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_04.jpg) |
 
-Download the [full gameplay recording (MP4)](https://github.com/SalmeInMotion/Doom4K/releases/download/v03/Doom_Doom%204K.mp4) from the v03 release.
+Download the [full gameplay recording (MP4)](https://github.com/SalmeInMotion/Doom4K/releases/download/v03/Doom_Doom.4K.mp4) from the v03 release.
 ## Source
 
 The `engine-source/GZDoom` directory contains the corresponding GZDoom source used for the included Doom4K runtime build. GZDoom is licensed under GPL-3.0-or-later; see its `LICENSE` and `licenses.zip` for the engine and bundled third-party notices.
