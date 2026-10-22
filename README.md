@@ -23,6 +23,11 @@ Each example shows the same captured game state in both artwork modes. The side-
 |---|---|
 | [![HQ vs Original: combat](docs/screenshots/Doom4K_Comparison_20261008_154821_sidebyside.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154821_sidebyside.jpg) | [![F9 split: combat](docs/screenshots/Doom4K_Comparison_20261008_154821_split.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154821_split.jpg) |
 | [![HQ vs Original: environment](docs/screenshots/Doom4K_Comparison_20261008_154835_sidebyside.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154835_sidebyside.jpg) | [![F9 split: environment](docs/screenshots/Doom4K_Comparison_20261008_154835_split.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154835_split.jpg) |
+
+## Local texture review
+
+Project-maintainer tool for comparing original Doom textures with HQ candidates and recording private review decisions. On the maintainer's workstation, launch `P:\IA\Tools\Doom 4K\web\Open Doom Texture Review.cmd`, or open `http://127.0.0.1:8847` after it starts. The app is local-only; its review database and comments are not published in this repository.
+
 ## Gameplay demo comparisons
 
 F9 split-screen captures show the HQ rendering on the left and the original low-resolution artwork on the right.
