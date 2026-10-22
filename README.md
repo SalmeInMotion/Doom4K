@@ -21,8 +21,8 @@ Each example shows the same captured game state in both artwork modes. The side-
 
 | HQ vs Original | F9 split-screen |
 |---|---|
-| [![HQ vs Original: combat](docs/screenshots/Doom4K_Comparison_20261008_154821_sidebyside.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154821_sidebyside.jpg) | [![F9 split: combat](docs/screenshots/Doom4K_Comparison_20261008_154821_split.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154821_split.jpg) |
-| [![HQ vs Original: environment](docs/screenshots/Doom4K_Comparison_20261008_154835_sidebyside.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154835_sidebyside.jpg) | [![F9 split: environment](docs/screenshots/Doom4K_Comparison_20261008_154835_split.jpg)](docs/screenshots/Doom4K_Comparison_20261008_154835_split.jpg) |
+| [![HQ vs Original: combat](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154821_sidebyside.jpg)](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154821_sidebyside.jpg) | [![F9 split: combat](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154821_split.jpg)](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154821_split.jpg) |
+| [![HQ vs Original: environment](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154835_sidebyside.jpg)](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154835_sidebyside.jpg) | [![F9 split: environment](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154835_split.jpg)](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Comparison_20261008_154835_split.jpg) |
 
 ## Local texture review
 
@@ -34,8 +34,10 @@ F9 split-screen captures show the HQ rendering on the left and the original low-
 
 | Gameplay frame 1 | Gameplay frame 2 |
 |---|---|
-| ![Gameplay comparison frame 1](docs/screenshots/Doom4K_Gameplay_F9_Split_01.jpg) | ![Gameplay comparison frame 2](docs/screenshots/Doom4K_Gameplay_F9_Split_02.jpg) |
-| ![Gameplay comparison frame 3](docs/screenshots/Doom4K_Gameplay_F9_Split_03.jpg) | ![Gameplay comparison frame 4](docs/screenshots/Doom4K_Gameplay_F9_Split_04.jpg) |
+| ![Gameplay comparison frame 1](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_01.jpg) | ![Gameplay comparison frame 2](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_02.jpg) |
+| ![Gameplay comparison frame 3](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_03.jpg) | ![Gameplay comparison frame 4](https://raw.githubusercontent.com/SalmeInMotion/Doom4K/main/docs/screenshots/Doom4K_Gameplay_F9_Split_04.jpg) |
+
+Download the [full gameplay recording (MP4)](https://github.com/SalmeInMotion/Doom4K/releases/download/v03/Doom_Doom%204K.mp4) from the v03 release.
 ## Source
 
 The `engine-source/GZDoom` directory contains the corresponding GZDoom source used for the included Doom4K runtime build. GZDoom is licensed under GPL-3.0-or-later; see its `LICENSE` and `licenses.zip` for the engine and bundled third-party notices.
